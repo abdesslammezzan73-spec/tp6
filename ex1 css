@@ -1,0 +1,9 @@
+
+#div{
+    background-color: lightblue;
+    display: flex;
+    justify-content: baseline;
+}
+#p1{
+    text-align: center;
+}
